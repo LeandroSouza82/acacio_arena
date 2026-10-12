@@ -10,7 +10,7 @@ export default function EventsParties() {
         <img
           className="split__media"
           src={EVENT_IMAGE}
-          alt="Festa infantil no salão com churrasqueira e bar da Acácio Arena"
+          alt="Festa infantil no salão com churrasqueira e bar da Acássio Arena"
           loading="lazy"
           decoding="async"
           width={600}

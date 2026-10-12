@@ -21,7 +21,7 @@ export default function LocationContact() {
         </div>
         <iframe
           className="map"
-          title="Mapa da Acácio Arena"
+          title="Mapa da Acássio Arena"
           src={MAP_URL}
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"

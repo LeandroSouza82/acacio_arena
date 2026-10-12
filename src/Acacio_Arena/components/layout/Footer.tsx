@@ -9,7 +9,7 @@ export default function Footer() {
           <p className="logo">
             <span className="logo__mark">A</span>
             <span>
-              Acácio <strong>Arena</strong>
+              Acássio <strong>Arena</strong>
             </span>
           </p>
           <p className="muted">{BRAND.tagline}</p>
@@ -40,7 +40,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Instagram @acacioarena
+            Instagram @acassioarena
           </a>
         </div>
       </div>

@@ -21,7 +21,7 @@ export default function Header() {
         <a href="#topo" className="logo" aria-label={`${BRAND.name} — início`}>
           <span className="logo__mark">A</span>
           <span>
-            Acácio <strong>Arena</strong>
+            Acássio <strong>Arena</strong>
           </span>
         </a>
 

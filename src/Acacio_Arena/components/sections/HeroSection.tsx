@@ -10,14 +10,14 @@ export default function HeroSection() {
       <img
         className="hero__bg"
         src="/images/society.jpg"
-        alt="Quadra de society sintético coberta da Acácio Arena à noite"
+        alt="Quadra de society sintético coberta da Acássio Arena à noite"
         fetchPriority="high"
         decoding="async"
       />
       <div className="hero__shade" />
       <div className="container hero__content">
-        <p className="eyebrow">Acácio Arena</p>
-        <h1>Acácio Arena: Tradição, Esporte e Eventos em Espaço 100% Coberto.</h1>
+        <p className="eyebrow">Acássio Arena</p>
+        <h1>Acássio Arena: Tradição, Esporte e Eventos em Espaço 100% Coberto.</h1>
         <p className="lead">
           Futebol society sintético de qualidade, quadra de areia e artes marciais. O ponto de
           encontro do esporte local e a melhor estrutura para sua resenha ou festa.

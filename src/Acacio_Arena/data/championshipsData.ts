@@ -33,4 +33,4 @@ export const UPCOMING: UpcomingChampionship = {
 };
 
 export const HISTORY_TEXT =
-  'A Acácio Arena nasceu da paixão da comunidade pelo esporte. Hoje valorizamos cada atleta e cada time da região, ano após ano.';
+  'A Acássio Arena nasceu da paixão da comunidade pelo esporte. Hoje valorizamos cada atleta e cada time da região, ano após ano.';

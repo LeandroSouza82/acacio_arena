@@ -5,13 +5,13 @@ export const buildWhatsAppLink = (message: string): string =>
   `https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(message)}`;
 
 export const MESSAGES = {
-  general: 'Olá! Gostaria de falar com o atendimento da Acácio Arena.',
-  society: 'Olá! Gostaria de reservar um horário no Society da Acácio Arena.',
-  sand: 'Olá! Gostaria de reservar a Quadra de Areia da Acácio Arena.',
-  muayThai: 'Olá! Gostaria de agendar uma aula experimental de Muay Thai na Acácio Arena.',
+  general: 'Olá! Gostaria de falar com o atendimento da Acássio Arena.',
+  society: 'Olá! Gostaria de reservar um horário no Society da Acássio Arena.',
+  sand: 'Olá! Gostaria de reservar a Quadra de Areia da Acássio Arena.',
+  muayThai: 'Olá! Gostaria de agendar uma aula experimental de Muay Thai na Acássio Arena.',
   events:
-    'Olá! Gostaria de consultar disponibilidade e valores para realizar uma festa/evento na Acácio Arena.',
-  championship: 'Olá! Gostaria de inscrever meu time na próxima Copa da Comunidade da Acácio Arena.',
+    'Olá! Gostaria de consultar disponibilidade e valores para realizar uma festa/evento na Acássio Arena.',
+  championship: 'Olá! Gostaria de inscrever meu time na próxima Copa da Comunidade da Acássio Arena.',
 } as const;
 
 export const QUICK_OPTIONS: QuickOption[] = [
@@ -24,5 +24,5 @@ export const QUICK_OPTIONS: QuickOption[] = [
 
 export const slotMessage = (slot: ScheduleSlot): string => {
   const court = slot.court === 'society' ? 'Society' : 'Quadra de Areia';
-  return `Olá! Gostaria de reservar o horário de ${slot.weekday} às ${slot.time} no ${court} da Acácio Arena.`;
+  return `Olá! Gostaria de reservar o horário de ${slot.weekday} às ${slot.time} no ${court} da Acássio Arena.`;
 };

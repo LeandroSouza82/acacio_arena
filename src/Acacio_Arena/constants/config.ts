@@ -1,15 +1,15 @@
-/** Variáveis centrais da Acácio Arena. Edite aqui telefone, endereço e redes. */
+/** Variáveis centrais da Acássio Arena. Edite aqui telefone, endereço e redes. */
 export const WHATSAPP_PHONE = '5500000000000'; // DDI + DDD + número, apenas dígitos
 
 export const BRAND = {
-  name: 'Acácio Arena',
+  name: 'Acássio Arena',
   tagline: 'Tradição, Esporte e Eventos em Espaço 100% Coberto.',
 } as const;
 
 export const ADDRESS = {
   street: 'Rua Exemplo, 123 — Atualize em constants/config.ts',
   city: 'Litoral — Brasil',
-  mapQuery: 'Acácio Arena',
+  mapQuery: 'Acássio Arena',
 } as const;
 
 export const OPENING_HOURS = [
@@ -18,7 +18,7 @@ export const OPENING_HOURS = [
 ] as const;
 
 export const SOCIAL_LINKS = {
-  instagram: 'https://instagram.com/acacioarena',
+  instagram: 'https://instagram.com/acassioarena',
 } as const;
 
 export const NAV_LINKS = [
